@@ -8,6 +8,7 @@
             "email": "18238205232@163.com"
         }
     ],
+    "license": "MIT",
     "require": {
         "php": ">=5.4"
     },
