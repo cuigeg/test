@@ -1,0 +1,19 @@
+{
+    "name": "admin/test",
+    "description": "first composer pack",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cuibenling",
+            "email": "18238205232@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "cuigeg\\test\\": "src/"
+        }
+    }
+}
